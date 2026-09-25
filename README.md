@@ -2,6 +2,10 @@
 
 An agent skill for landing pages that people *play with* instead of scroll past.
 
+![Promo: a generic landing page gets a NOPE stamp, then playable drum machine, plant and darkroom pages, six mechanics, and the install command](media/promo.gif)
+
+<sub>▶ [Watch with sound (MP4)](media/promo.mp4)</sub>
+
 Most generated landing pages look the same: a hero, three feature cards, fade-ins, a gradient. This skill teaches a coding agent a different method. The page becomes the product's core action, played as a toy, and every visual choice comes from the product's own world.
 
 > A drum-machine app's page *is* a 16-step sequencer: tap the steps and the hero plays your beat. The palette comes from a vintage drum machine's panel, and the headline pulses on the kick.
@@ -50,4 +54,4 @@ New mechanics are welcome. Keep them dependency-free, reduced-motion safe and ke
 
 ## License
 
-MIT
+MIT. The promo video uses [Twemoji](https://github.com/jdecked/twemoji) graphics, licensed CC-BY 4.0.
